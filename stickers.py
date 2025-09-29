@@ -14,7 +14,7 @@ def send_file():
 
 
 window  = CTk()
-window.geometry('401x500')
+window.geometry('410x500')
 window.title('chat_N.A.S.C.H.')
 window.configure(fg_color='yellow')
 img = CTkImage(Image.open("paper_clip.png"), size=(25,25))
